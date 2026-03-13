@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canada Tax Assistant 2025</title>
+    <meta name="description" content="A premium guide and tool to help Canadians file their 2025 taxes easily.">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-shapes">
+        <div class="shape shape-1"></div>
+        <div class="shape shape-2"></div>
+        <div class="shape shape-3"></div>
+    </div>
+
+    <header class="hero">
+        <div class="container">
+            <h1>Canada Tax Assistant <span class="highlight">2025</span></h1>
+            <p>Your streamlined, premium guide to filing federal and provincial taxes.</p>
+        </div>
+    </header>
+
+    <main class="container main-content">
+        <section class="card forms-section" id="forms-section">
+            <h2>Select & Download Forms</h2>
+            <p>Choose the official CRA forms you need from the dropdown below to download them directly.</p>
+            <div class="form-group">
+                <select id="form-selector" class="custom-select">
+                    <option value="" disabled selected>Select a tax form...</option>
+                </select>
+                <button id="download-btn" class="btn primary-btn" disabled>Download Form</button>
+            </div>
+        </section>
+
+        <section class="card walkthrough-section" id="walkthrough-section">
+            <h2>Filing Walkthrough</h2>
+            <p>A step-by-step guide based on the 2025 CRA Tax Filing Guide.</p>
+
+            <div class="accordion">
+                <!-- Overview -->
+                <div class="accordion-item">
+                    <button class="accordion-header">1. Overview of Canadian Tax Filing <span class="icon">+</span></button>
+                    <div class="accordion-content">
+                        <p>Every Canadian resident must file an annual T1 Income Tax and Benefit Return with the Canada Revenue Agency (CRA). The tax year runs January 1 to December 31, and you report the prior year's income each spring.</p>
+                    </div>
+                </div>
+
+                <!-- Method 1 -->
+                <div class="accordion-item">
+                    <button class="accordion-header">2. Method 1: NETFILE (Recommended - Fastest) <span class="icon">+</span></button>
+                    <div class="accordion-content">
+                        <ul>
+                            <li>Create or sign into your CRA My Account at canada.ca/my-cra-account</li>
+                            <li>Download CRA-certified tax software: Wealthsimple Tax (free), TurboTax, StudioTax, H&R Block, GenuTax</li>
+                            <li>Enter all your information into the software — use Auto-fill My Return to import slips</li>
+                            <li>Review your return and ensure everything is accurate</li>
+                            <li>Click "File" — the software transmits your return directly to CRA</li>
+                            <li>Save your NETFILE confirmation number — proof your return was received</li>
+                            <li>Set up direct deposit in CRA My Account to receive your refund within 8 business days</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Method 2 -->
+                <div class="accordion-item">
+                    <button class="accordion-header">3. Method 2: EFILE (Through a Tax Professional) <span class="icon">+</span></button>
+                    <div class="accordion-content">
+                        <ul>
+                            <li>Hire a registered tax professional (accountant, tax preparer, local office)</li>
+                            <li>Gather and provide all your documents to them</li>
+                            <li>The professional completes your return including T2125 if self-employed</li>
+                            <li>They submit electronically using the CRA's EFILE system</li>
+                            <li>You receive a copy of your return and the EFILE confirmation</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Method 3 -->
+                <div class="accordion-item">
+                    <button class="accordion-header">4. Method 3: Paper Filing (Slowest - 12+ weeks) <span class="icon">+</span></button>
+                    <div class="accordion-content">
+                        <ul>
+                            <li>Download and print the T1 General package from canada.ca/taxes, or request it by phone: 1-800-959-8281</li>
+                            <li>Complete all forms by hand or by typing into fillable PDFs</li>
+                            <li>Attach all supporting forms (T2125, Schedule 8, etc.) and attach copies of all slips</li>
+                            <li>Do NOT attach original slips — keep originals for your records</li>
+                            <li>Mail to your regional CRA tax centre (address varies by province — see CRA website)</li>
+                            <li>Keep a copy of everything you mail</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- After You File -->
+                <div class="accordion-item">
+                    <button class="accordion-header">5. After You File (Notice of Assessment) <span class="icon">+</span></button>
+                    <div class="accordion-content">
+                        <p>CRA will send a Notice of Assessment (NOA) after processing your return — typically 2-8 weeks for electronic filers and 12+ weeks for paper filers. The NOA shows:</p>
+                        <ul>
+                            <li>Whether CRA accepted your return as filed or made changes</li>
+                            <li>Your refund amount or balance owing</li>
+                            <li>Your RRSP deduction limit for the next year</li>
+                            <li>Your unused RRSP carry-forward amounts</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Disagree With CRA -->
+                <div class="accordion-item">
+                    <button class="accordion-header">6. If You Disagree with CRA <span class="icon">+</span></button>
+                    <div class="accordion-content">
+                        <ul>
+                            <li>Review the NOA carefully for errors</li>
+                            <li>File a T1-ADJ (T1 Adjustment Request) for simple corrections</li>
+                            <li>File a Notice of Objection within 90 days of the NOA date for formal disputes</li>
+                            <li>Contact a tax professional if the dispute involves significant amounts</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Record Keeping -->
+                <div class="accordion-item">
+                    <button class="accordion-header">7. Record Keeping Requirements <span class="icon">+</span></button>
+                    <div class="accordion-content">
+                        <ul>
+                            <li>Keep all tax records, receipts, and supporting documents for at least 6 years</li>
+                            <li>Self-employed: Keep business records for 6 years from the end of the tax year they relate to</li>
+                            <li>Store records securely — CRA can request them if your return is reviewed or audited</li>
+                            <li>Consider storing digital copies alongside paper copies</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Canada Tax Assistant. This is a helpful guide. Always verify with official CRA sources.</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

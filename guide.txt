@@ -1,0 +1,133 @@
+Every Canadian resident must file an annual T1 Income Tax and Benefit Return with the Canada Revenue Agency (CRA). The tax year runs January 1 to December 31, and you report the prior year's income each spring.
+Who Must File?
+You owe federal or provincial/territorial income tax
+You want to claim a refund
+The CRA sent you a request to file
+You disposed of capital property or had capital gains
+You received a demand to file from CRA
+You want to claim the Canada Workers Benefit, GST/HST credit, or other benefits
+Key Filing Deadlines — Tax Year 2025
+Core Forms for All Individuals
+If you earn income from an employer, your taxes are deducted from each paycheque. At year-end, your employer provides a T4 slip with your income and deduction details. You still must file a T1 General return.
+Step-by-Step Process — Employed Individual
+Step 1: Gather Your Documents
+T4 slip(s) from every employer (received by end of February)
+T4A slips if you received any pension, EI, or other income
+RRSP contribution receipts
+Tuition receipts (T2202) if applicable
+Medical expense receipts
+Charitable donation receipts
+Notice of Assessment from the previous year
+Social Insurance Number (SIN)
+Your bank account details for direct deposit of any refund
+Step 2: Obtain the T1 General Form
+Online: Download from canada.ca/taxes
+In-person: Pick up at Canada Post or your local CRA office
+Tax software: Use CRA-certified software (TurboTax, Wealthsimple Tax, StudioTax, H&R Block) which auto-populates many fields
+Step 3: Complete the T1 General
+See the detailed T1 field-by-field guide in Section 5 below.
+Step 4: Submit Your Return
+NETFILE: File online through CRA-certified software — fastest, refunds in 8 business days
+EFILE: Have a tax professional file on your behalf electronically
+Paper mail: Print and mail to your regional CRA tax centre
+Step 5: After Filing
+You will receive a Notice of Assessment (NOA) confirming CRA's review
+Set up direct deposit in My CRA Account for faster refunds
+Keep all records for at least 6 years
+Self-employed individuals (freelancers, sole proprietors, contractors, gig workers) must report all business income and expenses. No employer withholds taxes, so you are fully responsible for calculating and remitting what you owe.
+Step-by-Step Process — Self-Employed Individual
+Step 1: Organize Your Records All Year
+Track all business income (invoices, receipts, platform statements from Uber, Etsy, Fiverr, etc.)
+Keep all business expense receipts (office supplies, travel, phone, internet, home office, professional fees)
+Maintain a mileage log if using a vehicle for business
+Track GST/HST you collected (if applicable)
+Step 2: Gather All Documents
+T4A slips from clients (if they issued them)
+All income records including cash payments
+All business expense receipts
+Previous year's Notice of Assessment
+Home office measurements (if claiming home office expenses)
+Vehicle log and total kilometres driven
+SIN and CRA Business Number (if registered)
+Step 3: Complete Form T2125
+The T2125 (Statement of Business or Professional Activities) is attached to your T1 and calculates your net business income. See the detailed T2125 field guide in Section 6.
+Step 4: Transfer Net Income to T1 General
+Your net business income from T2125 goes on Line 13500 of your T1
+Add this to any other income (employment T4, investment income, etc.)
+Your total income determines your federal and provincial tax brackets
+Step 5: Calculate CPP Contributions (Schedule 8)
+Self-employed pay both employee AND employer portions of CPP
+For 2025: 11.9% of net self-employment income, up to a maximum of $8,068.20
+The employer portion (half) is deductible on your T1
+Complete Schedule 8 to calculate your CPP contribution
+Step 6: GST/HST Registration and Filing
+If your gross revenue exceeds $30,000 over 4 consecutive calendar quarters, you MUST register for a GST/HST number
+Once registered, charge GST/HST on invoices, collect it, and remit it to CRA
+File a separate GST/HST return (quarterly, annually, or monthly depending on your reporting period)
+Step 7: File Your Return
+Deadline to FILE: June 15, 2026 (for 2025 tax year)
+Deadline to PAY any balance owing: April 30, 2026
+Submit via NETFILE, EFILE through a professional, or mail paper return
+Step 8: Consider Quarterly Installment Payments
+If you expect to owe more than $3,000 in net tax, CRA may require quarterly installments
+Installments due: March 15, June 15, September 15, and December 15
+CRA sends installment reminders if they believe you need to pay
+The T1 General is divided into several sections. Here is what to enter in each key area:
+Part 1: Identification
+Part 2: Elections Canada (Line 07800)
+Check if you authorize CRA to share your information with Elections Canada for the National Register of Electors. This is optional.
+Part 3: Information About Your Residence
+If you entered or left Canada during the year, you must enter the dates and note any province or territory changes. This affects which provincial tax return you must complete.
+Part 4: Income — Key Lines
+Part 5: Net Income Deductions — Key Lines
+Part 6: Taxable Income
+Line 26000 — Taxable Income: This is calculated automatically as Net Income minus any additional deductions (capital losses, security options deductions, etc.)
+Part 7: Federal Non-Refundable Tax Credits — Key Lines
+Part 8: Refund or Balance Owing
+Complete one T2125 per business. Attach it to your T1 General — it is not filed separately.
+Part 1: Identification
+Part 2: Internet Business Activities
+If your business generated income through a website, enter the web address and describe the activities. Skip this section if your website is informational only and does not generate direct revenue.
+Part 3A: Income
+Part 4: Business Expenses
+Part 7: Business-Use-of-Home Expenses
+Note: Home office expenses cannot create or increase a business loss. Any excess carries forward to the next year.
+Part 8: Net Income
+Method 1: NETFILE (Recommended — Fastest)
+Create or sign into your CRA My Account at canada.ca/my-cra-account
+Download CRA-certified tax software: Wealthsimple Tax (free), TurboTax, StudioTax, H&R Block, GenuTax
+Enter all your information into the software — use Auto-fill My Return to import slips
+Review your return and ensure everything is accurate
+Click "File" — the software transmits your return directly to CRA
+Save your NETFILE confirmation number — proof your return was received
+Set up direct deposit in CRA My Account to receive your refund within 8 business days
+Method 2: EFILE (Through a Tax Professional)
+Hire a registered tax professional (accountant, tax preparer, H&R Block office)
+Gather and provide all your documents to them
+The professional completes your return including T2125 if self-employed
+They submit electronically using the CRA's EFILE system
+You receive a copy of your return and the EFILE confirmation
+Method 3: Paper Filing (Slowest — 12+ weeks processing)
+Download and print the T1 General package from canada.ca/taxes, or request it by phone: 1-800-959-8281
+Complete all forms by hand or by typing into fillable PDFs
+Attach all supporting forms (T2125, Schedule 8, etc.) and attach copies of all slips
+Do NOT attach original slips — keep originals for your records
+Mail to your regional CRA tax centre (address varies by province — see CRA website)
+Keep a copy of everything you mail
+Notice of Assessment (NOA)
+CRA will send a Notice of Assessment after processing your return — typically 2-8 weeks for electronic filers and 12+ weeks for paper filers. The NOA shows:
+Whether CRA accepted your return as filed or made changes
+Your refund amount or balance owing
+Your RRSP deduction limit for the next year
+Your unused RRSP carry-forward amounts
+If You Disagree with CRA
+Review the NOA carefully for errors
+File a T1-ADJ (T1 Adjustment Request) for simple corrections
+File a Notice of Objection within 90 days of the NOA date for formal disputes
+Contact a tax professional if the dispute involves significant amounts
+Record Keeping Requirements
+Keep all tax records, receipts, and supporting documents for at least 6 years
+Self-employed: Keep business records for 6 years from the end of the tax year they relate to
+Store records securely — CRA can request them if your return is reviewed or audited
+Consider storing digital copies alongside paper copies
+Always verify the most current rules and deadlines at canada.ca/taxes
